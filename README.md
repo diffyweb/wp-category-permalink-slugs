@@ -1,4 +1,4 @@
-# WordPress Same Slug Withing Different Categories
+# WordPress Same Slug Within Different Categories
 
 WordPress plugin that allows duplicate post slugs when the permalink structure includes `%category%`.
 
